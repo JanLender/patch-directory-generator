@@ -1,0 +1,4 @@
+web/triangl/include/sed/controller/IPController.php
+web/triangl/include/sed/model/IPDao.php
+web/triangl/templates/ClientRecord/editIP.php
+web/triangl/templates/ClientRecord/ip.php
